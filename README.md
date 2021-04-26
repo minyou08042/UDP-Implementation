@@ -15,7 +15,7 @@ FOR - C# UDP Socket實作
 實作畫面:
 
 ### 對local端自行做發射接收
-![UDP實作畫面](https://user-images.githubusercontent.com/57974447/116047125-570a3200-a6a6-11eb-8d47-b88284f509ea.jpg)
+![image](https://user-images.githubusercontent.com/57974447/116061603-a572fd00-a6b5-11eb-8c91-d3a51900bebf.png)
 
 ### 對外ip做發射和接收回傳
 ![image](https://user-images.githubusercontent.com/57974447/116049298-b5d0ab00-a6a8-11eb-93e3-6fbb5038a1aa.png)
