@@ -1,0 +1,13 @@
+Client端可以自行設定ip跟port
+Server端可以決定開哪個port
+
+Client端
+一個接收畫面
+一個輸入列
+發射訊息的按鈕
+
+Server端不用發送訊息
+只需回傳給我訊息的Client端
+
+Client負責發射跟接收
+Server負責接收跟回復
